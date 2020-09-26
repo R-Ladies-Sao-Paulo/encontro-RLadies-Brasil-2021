@@ -56,3 +56,16 @@ Final de semana
 Só sábado, ou sábado e domingo?
 
 sugiro sexta e sábado ou somente sábado todo o dia.
+
+
+## Ideias de conteúdo
+
+- Keynote: Gabriela de Queiroz
+- Painéis de temas interessantes para toda a comunidade
+- Palestra das pessoas organizadoras
+- Palestras relâmpago gravadas de 5 minutos (lightning talks): aberto para todas as pessoas participates :)
+
+## Patrocinadores
+
+Será online. Precisaremos de patrocinadores?
+Brindes para sortear? (ex. livros, cursos, etc!)
