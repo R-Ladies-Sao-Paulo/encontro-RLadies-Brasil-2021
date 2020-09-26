@@ -1,5 +1,7 @@
 # Evento R-Ladies Brasil 2021
 
+[![HackMD documents](https://hackmd.io/badge.svg)](https://hackmd.io/@X5P3gL5UQoucvVetZdmVyw/rladies-brasil/edit)
+
 ATENÇÃO: Nome à definir.
 
 Evento online!
