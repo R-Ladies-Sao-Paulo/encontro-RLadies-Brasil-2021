@@ -2,6 +2,8 @@
 
 ATENÇÃO: Nome à definir.
 
+Evento online!
+
 ## Pessoas interessadas em organizar
 
 
