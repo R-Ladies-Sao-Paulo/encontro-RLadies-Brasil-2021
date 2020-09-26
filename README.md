@@ -30,22 +30,22 @@ Caso tenha dúvidas, pode pedir ajuda para a Bea Milz.
 
 | Capítulo | Pessoas organizadoras interessadas |
 |----------|------------------------------------|
-| Rio de Janeiro | Entrar em contato |
+| Rio de Janeiro |  Priscila Hohberg |
 | Porto Alegre | Iara Passos |
 | São Paulo | Beatriz Milz, Haydee Svab, Nath Demetrio |
-| Belo Horizonte | Entrar em contato |
-| Niterói | Entrar em contato |
-| Salvador | Entrar em contato |
-| Florianópolis | Entrar em contato |
-| Lavras | Entrar em contato |
+| Belo Horizonte | **Entrar em contato** |
+| Niterói | **Entrar em contato** |
+| Salvador | **Entrar em contato** |
+| Florianópolis | **Entrar em contato** |
+| Lavras | **Entrar em contato** |
 | Goiânia | Fernanda Kelly R. Silva |
-| Recife | Entrar em contato |
-| Manaus | Entrar em contato |
-| Vitória | Entrar em contato |
-| Ribeirão Preto | Entrar em contato |
+| Recife | **Entrar em contato** |
+| Manaus | **Entrar em contato** |
+| Vitória | **Entrar em contato** |
+| Ribeirão Preto | **Entrar em contato** |
 | Natal | Milagros Villavicencio |
 | Fortaleza | Taís Carvalho |
-| Curitiba | Entrar em contato |
+| Curitiba | **Entrar em contato** |
 
 
 ## Data 
@@ -55,4 +55,4 @@ Final de semana
 
 Só sábado, ou sábado e domingo?
 
-
+sugiro sexta e sábado ou somente sábado todo o dia.
