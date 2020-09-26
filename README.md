@@ -11,7 +11,7 @@ Evento online!
 |----------|------------------------------------|
 | Rio de Janeiro | Entrar em contato |
 | Porto Alegre | Iara Passos |
-| São Paulo | Beatriz Milz, Haydee Svab |
+| São Paulo | Beatriz Milz, Haydee Svab, Nath Demetrio |
 | Belo Horizonte | Entrar em contato |
 | Niterói | Entrar em contato |
 | Salvador | Entrar em contato |
