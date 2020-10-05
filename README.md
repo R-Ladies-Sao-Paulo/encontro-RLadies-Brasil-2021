@@ -43,7 +43,7 @@ Caso tenha dúvidas, pode pedir ajuda para a Bea Milz.
 | Manaus | **Entrar em contato** |
 | Vitória | **Entrar em contato** |
 | Ribeirão Preto | **Entrar em contato** |
-| Natal | Milagros Villavicencio |
+| Natal | Milagros Villavicencio e Claudia Stephanny|
 | Fortaleza | Taís Carvalho |
 | Curitiba | **Entrar em contato** |
 
